@@ -1,0 +1,226 @@
+/* Body */
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #ffffff;
+    font-style: normal;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #ffffff;
+    margin-bottom: 96px;
+  }
+  
+  /* Logo */
+  .logo a {
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    padding: 156px;
+  }
+  
+  /* "WEB" */
+  .logo a span:first-child {
+    color: #4d5ae5;
+    width: 44px;
+  }
+  
+  /* "STUDIO"  */
+  .logo a span:last-child {
+    color: #2e2f42;
+    width: 71px;
+  }
+  
+  /* Navigation */
+  .nav-list {
+    list-style: none;
+  }
+  
+  .nav-item a {
+    margin-left: 76px;
+    text-decoration: none;
+    color: #2e2f42;
+    font-weight: 400;
+  }
+  
+  .nav-item a:hover {
+    color: #404bbf;
+  }
+  
+  .contact-item .contact-label {
+    font-weight: bold;
+  }
+  
+  .contact-info a {
+    color: #434455;
+    text-decoration: none;
+    font-style: normal;
+  }
+  
+  .contact-info a:hover {
+    color: #404bbf;
+  }
+  
+  /* Hero Section */
+  .hero {
+    height: 600px;
+    background-color: #2e2f42;
+  }
+  
+  .hero-title {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    position: absolute;
+    width: 496px;
+    height: 120px;
+    left: 472px;
+    top: 188px;
+    color: #ffffff;
+  }
+  
+  
+  /* Hero Section */
+  .btn {
+    padding: 16px 32px;
+    gap: 10px;
+    margin-top: 64px;
+    margin-bottom: 292px;
+    position: absolute;
+    width: 169px;
+    height: 56px;
+    left: 636px;
+    top: 356px;
+    border-radius: 4px;
+    background: #4d5ae5;
+    cursor: pointer;
+    color: #ffffff;
+  }
+  
+  .btn:hover {
+    background-color: #404bbf;
+  }
+  
+  /* Features Section */
+  .features {
+    padding: 156px 96px;
+    background-color: #ffffff;
+    margin-bottom: 96px;
+  }
+  
+  .features-list {
+    list-style: none;
+  }
+  
+  .feature-item {
+    width: 264px;
+    height: 104px;
+    padding: 24px;
+  }
+  
+  .feature-title {
+    font-size: 36px;
+    margin-bottom: 8px;
+    color: #2e2f42;
+  }
+  
+  .feature-description {
+    font-size: 16px;
+    color: #434455;
+  }
+  
+  /* Team Section */
+  .team {
+    background-color: #f4f4fd;
+  }
+  
+  .section-title {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 72px;
+    padding: 120px 639px;
+  }
+  
+  .team-list {
+    list-style: none;
+  }
+  
+  .team-member {
+    text-align: center;
+  }
+  
+  .team-member-name {
+    font-size: 20px;
+    margin-top: 15px;
+    color: #2e2f42;
+  }
+  
+  .team-member-role {
+    font-size: 16px;
+    color: #434455;
+  }
+  
+  /* Portfolio Section */
+  .portfolio {
+    background-color: #ffffff;
+  }
+  
+  .portfolio-list {
+    list-style: none;
+  }
+  
+  .portfolio-item {
+    width: 30%;
+    margin-bottom: 40px;
+  }
+  
+  .portfolio-title {
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  
+  /* Footer */
+  .footer {
+    padding: 20px 40px;
+    background-color: #2d2f36;
+    color: #ffffff;
+  }
+  
+  .footer-content {
+    text-align: left;
+    max-width: 300px;
+  }
+  
+  .footer-content a {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  /* "WEB"*/
+  .footer-content a span:first-child {
+    color: #4d5ae5;
+  }
+  
+  /* "STUDIO"*/
+  .footer-content a span:last-child {
+    color: #ffffff;
+  }
+  
+  .footer-content p {
+    font-size: 16px;
+    margin-top: 10px;
+    color: #ffffff;
+  }
