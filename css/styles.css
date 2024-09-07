@@ -125,19 +125,19 @@ body {
   }
   
   .feature-item {
-    width: 264px;
-    height: 104px;
+    width: 400px;
+   line-height: 24px;
     padding: 24px;
   }
   
   .feature-title {
-    font-size: 36px;
-    margin-bottom: 8px;
+    font-size: 16px;
+    margin-bottom: 5px;
     color: #2e2f42;
   }
   
   .feature-description {
-    font-size: 16px;
+    font-size: 15px;
     color: #434455;
   }
   
