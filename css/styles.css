@@ -28,8 +28,8 @@ body {
 .nav {
   list-style-type: none;
 }
-.nav:hover,
-.nav:focus {
+.nav :hover,
+.nav :focus {
   color: #404bbf;
 }
 .nav a {
@@ -47,8 +47,8 @@ body {
   font-size: 1em;
   line-height: 24px;
 }
-.adres:hover,
-.adres:focus {
+.adres :hover,
+.adres :focus {
   color: #404bbf;
 }
 .adres a {
@@ -58,7 +58,7 @@ body {
 .title-h3 {
   color: #2e2f42;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 20 px;
   line-height: 1.5em;
 }
 .section-one {
@@ -137,7 +137,6 @@ body {
 }
 
 .team-member img {
-  width: 150px;
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
@@ -167,7 +166,6 @@ body {
   list-style-type: none;
 }
 .section-four img {
-  width: 360px;
   height: 300px;
 }
 
