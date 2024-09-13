@@ -1,5 +1,4 @@
 body {
-  height: 3300px;
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -14,7 +13,6 @@ body {
   text-decoration: none;
 }
 .header {
-  width: 1440px;
   height: 72px;
   display: flex;
 }
@@ -62,7 +60,6 @@ body {
 }
 .section-one {
   background-color: #2e2f42;
-  width: 1440px;
   height: 300px;
   top: 250px;
   text-align: center;
