@@ -12,10 +12,7 @@ body {
   line-height: 24px;
   text-decoration: none;
 }
-.header {
-  height: 72px;
-  display: flex;
-}
+
 .web-header {
   color: #4d5ae5;
 }
@@ -121,7 +118,7 @@ body {
   border-radius: 10px;
   padding: 20px;
   text-align: center;
-  flex: 1; /* Kartlar eşit genişlikte olsun */
+   /* Kartlar eşit genişlikte olsun */
   max-width: 264px; /* Kart genişliği */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
